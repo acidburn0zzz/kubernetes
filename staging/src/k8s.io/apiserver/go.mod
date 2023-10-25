@@ -15,15 +15,15 @@ require (
 	github.com/go-openapi/jsonreference v0.19.5 // indirect
 	github.com/go-openapi/swag v0.19.14 // indirect
 	github.com/gogo/protobuf v1.3.2
-	github.com/google/go-cmp v0.5.5
+	github.com/google/go-cmp v0.5.9
 	github.com/google/gofuzz v1.1.0
-	github.com/google/uuid v1.1.2
+	github.com/google/uuid v1.3.0
 	github.com/googleapis/gnostic v0.5.5
 	github.com/grpc-ecosystem/go-grpc-prometheus v1.2.0
 	github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822
 	github.com/pquerna/cachecontrol v0.0.0-20171018203845-0dec1b30a021 // indirect
 	github.com/spf13/pflag v1.0.5
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.8.3
 	go.etcd.io/etcd/api/v3 v3.5.0
 	go.etcd.io/etcd/client/pkg/v3 v3.5.0
 	go.etcd.io/etcd/client/v3 v3.5.0
@@ -34,11 +34,11 @@ require (
 	go.opentelemetry.io/otel/sdk v0.20.0
 	go.opentelemetry.io/otel/trace v0.20.0
 	go.uber.org/zap v1.17.0
-	golang.org/x/crypto v0.0.0-20210220033148-5ea612d1eb83
-	golang.org/x/net v0.0.0-20210520170846-37e1c6afe023
-	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.0.0-20210616094352-59db8d763f22
-	google.golang.org/grpc v1.38.0
+	golang.org/x/crypto v0.0.0-20211108221036-ceb1ce70b4fa
+	golang.org/x/net v0.9.0
+	golang.org/x/sync v0.1.0
+	golang.org/x/sys v0.7.0
+	google.golang.org/grpc v1.56.3
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0
 	gopkg.in/square/go-jose.v2 v2.2.2
 	k8s.io/api v0.0.0
